@@ -1,0 +1,25 @@
+# FUENTES BECAS LATAM
+# Formato: tipo|valor
+# tipo: rss | web | telegram
+# Lineas con # se ignoran
+
+# RSS — feeds XML, casi nunca bloquean
+rss|https://www.opportunitydesk.org/feed/
+rss|https://www.scholars4dev.com/feed/
+rss|https://www.afterschoolafrica.com/feed/
+rss|https://www.clacso.org/feed/
+
+# WEB — HTML directo
+web|https://www.fulbright.edu.ar/becas/
+web|https://chevening.org/scholarships/
+web|https://becas-santander.com/es/programs.html
+web|https://www.worldbank.org/en/programs/scholarships
+
+# TELEGRAM — canales publicos
+telegram|OppoTracker1
+telegram|BrightScholarship
+telegram|opcorners
+telegram|scholarshipscorner
+telegram|latam_becas
+telegram|oportunidadesacademicas
+telegram|becas_internacionales
